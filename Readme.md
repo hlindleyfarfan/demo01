@@ -1,8 +1,10 @@
-#Proyecto Ejemplo Github
+# Proyecto Ejemplo Github
 
-###Intergrantes
+### Intergrantes
 
--Pablo Choy
--Jesús Macha
--Alex Meregildo
--Hector Lindley
+- Pablo Choy
+- Jesús Macha
+- Alex Meregildo
+- Hector Lindley
+- Bill Gates
+- Elon Musk
