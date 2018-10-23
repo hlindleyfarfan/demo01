@@ -8,3 +8,4 @@
 - Hector Lindley
 - Bill Gates
 - Elon Musk
+- Carlos Duran
